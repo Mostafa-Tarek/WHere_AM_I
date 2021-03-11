@@ -1,4 +1,3 @@
-﻿[![Udacity - Robotics NanoDegree Program](https://s3-us-west-1.amazonaws.com/udacity-robotics/Extra+Images/RoboND_flag.png)](https://www.udacity.com/robotics)
 # Where Am I?
 
 In this project I built Differential wheeled robot that uses information from `laser-sensor` and `camera` to localize itself through the `amcl pkg` to estimate the robot's own pose .`However`, to successfully apply the algorithm, there are many `parameters` to tune for the specific robot and env, `config.files` contains up-to-date parameters  . See my `pdf` for an extended discussion 
